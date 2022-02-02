@@ -1,0 +1,16 @@
+h1 {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+body {
+    background-color: black;
+}
+nav {
+    color: blue;
+}
+
+article p {
+    color: grey;
+    text-align: center;
+}
